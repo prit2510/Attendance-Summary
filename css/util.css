@@ -1,0 +1,18 @@
+.center-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width:327px){
+    nav h1{
+        line-height: 1.1;
+        letter-spacing: -0.027em;
+        font-size: 37px;
+    }
+    nav{
+        height: 27vh;
+    }
+    nav p{
+        font-size: 11px;
+    }
+    }
